@@ -10,5 +10,5 @@ def texto_minusculas(cadena):
     return cadena.lower()
 
 # Pruebas
-print(texto_mayusculas("Hola GitHub"))
-print(texto_minusculas("Hola GitHub"))
+print(texto_mayusculas("Hola Mundo"))
+print(texto_minusculas("Hola Mundo"))
