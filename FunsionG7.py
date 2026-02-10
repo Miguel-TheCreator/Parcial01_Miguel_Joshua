@@ -1,0 +1,14 @@
+# lista mayuscula - lista minuscula
+#  Miguel Castillero 
+
+def texto_mayusculas(cadena):
+    print("Convirtiendo a MAYÚSCULAS...")
+    return cadena.upper()
+
+def texto_minusculas(cadena):
+    print("Convirtiendo a minúsculas...")
+    return cadena.lower()
+
+# Pruebas
+print(texto_mayusculas("Hola GitHub"))
+print(texto_minusculas("Hola GitHub"))
